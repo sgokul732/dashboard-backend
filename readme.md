@@ -1,4 +1,4 @@
-#upload-csv-into-node-server
+
 
 Prerequisites:
 a. Nodejs installed on your local machine - https://nodejs.org/
@@ -18,4 +18,4 @@ b. MongoDB installed on your local machine - https://www.mongodb.com
 5. After CSV file upload successfully, we see succsess message in API response
 
 6. Retrieve employees data from the database using GET API
-    - http://localhost:5000/api/employees
+    - http://localhost:5000/api/
